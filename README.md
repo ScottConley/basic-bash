@@ -3,10 +3,15 @@
 ## Material Covered
 
 echo
+
 variables
+
 arguments
 
 Arithmetic
 
+Read/Math exercise
+
 if statements
 
+blackJack exercise
