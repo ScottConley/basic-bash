@@ -24,3 +24,11 @@ echo "Hello, $first_name $last_name!"
 read -p 'What is your name?: ' name
 
 echo "Nice to meet you, $name!"
+
+# using arguments to assign variables
+# write these after file name
+
+first_name=$1
+last_name=$2
+
+echo "Hello, $1 $2"
