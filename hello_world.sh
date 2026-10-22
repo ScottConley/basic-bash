@@ -1,6 +1,6 @@
 #!/bin/bash/
 
-# this one just for fun
+# this one is just for fun
 
 names=("Johnson" "Roark" "Bond" "Conley" "Stewart" "Wenc" "Ortiz" "Kemmet" "Smith")
 

@@ -6,3 +6,5 @@ echo
 variables
 arguments
 
+Arithmetic
+
