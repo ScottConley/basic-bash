@@ -1,5 +1,8 @@
 #!/bin/bash/
 
+# This is the actual exercise that was given
+# via the google doc
+
 read -p "Please give me a length for side 1: " rside1
 
 read -p "Please give me a length for side 2: " rside2
@@ -7,6 +10,10 @@ read -p "Please give me a length for side 2: " rside2
 area=$((rside1 * rside2))
 
 echo "The area of your rectangle is $area"
+
+# this is just a cool little thing I found
+# You can set a variable for each iteration
+# of a for loop!
 
 iterations=2
 
