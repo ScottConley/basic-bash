@@ -15,3 +15,5 @@ Read/Math exercise
 if statements
 
 blackJack exercise
+
+args as variables
